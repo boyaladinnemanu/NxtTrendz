@@ -1,0 +1,26 @@
+.cart-list {
+  padding-left: 0px;
+}
+.removeallbtn {
+  font-family: roboto;
+  font-size: 14px;
+  color: #0b69ff;
+  font-weight: bold;
+  height: 40px;
+  border: 0px;
+  width: 110px;
+  background-color: transparent;
+}
+.removebtn-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+.total-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 2px;
+}
